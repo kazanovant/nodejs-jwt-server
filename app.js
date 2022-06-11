@@ -16,8 +16,8 @@ app.get('/', function (req, res) {
 	res.json({
 	  type: 'get',
 	  number: 1,
-	  nama: 'Okyza Maherdy Prabowo',
-	  npm: '33220025'
+	  nama: 'Kazanova Nugrasyam T',
+	  npm: '2042074'
 	});
   })
 
